@@ -1,0 +1,5 @@
+MYSQL_DATABASE=sequelize-example
+MYSQL_ROOT_PASSWORD=1q2w3e4r
+MYSQL_USER=sequelize
+MYSQL_PASSWORD=1q2w3e4r
+TZ=Asia/Seoul

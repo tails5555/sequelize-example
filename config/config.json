@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sequelize",
+    "password": "1q2w3e4r",
+    "database": "sequelize-example",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "sequelize",
+    "password": "1q2w3e4r",
+    "database": "sequelize-example",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "sequelize",
+    "password": "1q2w3e4r",
+    "database": "sequelize-example",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
